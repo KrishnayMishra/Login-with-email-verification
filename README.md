@@ -40,8 +40,7 @@
 click send <br>
 output: ![image](https://user-images.githubusercontent.com/86675294/206161901-e4a6db7a-62de-4b65-90d7-8478d687a19d.png)
 
-7. localhost:5000/api/products/allProducts?sortit=1  
-<br>
+7. localhost:5000/api/products/allProducts?sortit=1  <br>
 For ascending order (By created date) click send <br>
 output: ![image](https://user-images.githubusercontent.com/86675294/206164000-c766b586-2e65-4628-adce-283b3c6d3004.png)
 
@@ -51,17 +50,17 @@ For descending order (By created date) click send <br>
 output: ![image](https://user-images.githubusercontent.com/86675294/206162248-00693b36-ba26-4548-974a-4b83308b0bfc.png)
 
 9. localhost:5000/api/products/allProducts/filter?RAM=9
-<br>
 filtering by RAM <br>
 output:  ![image](https://user-images.githubusercontent.com/86675294/206164345-de394753-a234-4ee4-b835-f32c93fbaef4.png)
-  <br><br>
+
+
 localhost:5000/api/products/allProducts/filter?object_name=vivom
-<br>
 filtering by object_name <br>
 output:  ![image](https://user-images.githubusercontent.com/86675294/206164743-5854ceaf-b4ed-4932-849c-cbe9dbbf406e.png)
-<br><br>
+
+
+
 localhost:5000/api/products/allProducts/filter?object_name=vivom
-<br><br>
 filtering by Screen_size <br>
 output:  ![image](https://user-images.githubusercontent.com/86675294/206165088-d329e506-1b89-4b36-8153-7384eac9985e.png)
 
