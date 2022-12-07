@@ -46,8 +46,9 @@ output: ![image](https://user-images.githubusercontent.com/86675294/206164000-c7
 
 8. localhost:5000/api/products/allProducts?sortit=-1  
 <br>
-For descending order (By created date) click send <br>
-output: ![image](https://user-images.githubusercontent.com/86675294/206162248-00693b36-ba26-4548-974a-4b83308b0bfc.png)
+For descending order (By created date) click send<br>
+output:
+![image](https://user-images.githubusercontent.com/86675294/206162248-00693b36-ba26-4548-974a-4b83308b0bfc.png)
 
 9. localhost:5000/api/products/allProducts/filter?RAM=9
 filtering by RAM <br>
