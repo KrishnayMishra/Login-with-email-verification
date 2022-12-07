@@ -53,17 +53,17 @@ output: ![image](https://user-images.githubusercontent.com/86675294/206162248-00
 9. localhost:5000/api/products/allProducts/filter?RAM=9
 <br>
 filtering by RAM <br>
-output: ![image](https://user-images.githubusercontent.com/86675294/206164345-de394753-a234-4ee4-b835-f32c93fbaef4.png)
-  <br>
+output:  ![image](https://user-images.githubusercontent.com/86675294/206164345-de394753-a234-4ee4-b835-f32c93fbaef4.png)
+  <br><br>
 localhost:5000/api/products/allProducts/filter?object_name=vivom
 <br>
 filtering by object_name <br>
-output: ![image](https://user-images.githubusercontent.com/86675294/206164743-5854ceaf-b4ed-4932-849c-cbe9dbbf406e.png)
-<br>
+output:  ![image](https://user-images.githubusercontent.com/86675294/206164743-5854ceaf-b4ed-4932-849c-cbe9dbbf406e.png)
+<br><br>
 localhost:5000/api/products/allProducts/filter?object_name=vivom
-<br>
+<br><br>
 filtering by Screen_size <br>
-output: ![image](https://user-images.githubusercontent.com/86675294/206165088-d329e506-1b89-4b36-8153-7384eac9985e.png)
+output:  ![image](https://user-images.githubusercontent.com/86675294/206165088-d329e506-1b89-4b36-8153-7384eac9985e.png)
 
 
    
