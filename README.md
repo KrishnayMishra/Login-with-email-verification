@@ -9,7 +9,7 @@
   <h4>npm i nodemon</h4> <h6> -- press enter</h6>
   <h4>npm i mongoose</h4> <h6> -- press enter</h6>
   <h4> npm start</h4> <h6> -- press enter</h6>
-  ![image](https://user-images.githubusercontent.com/86675294/206157721-82b0e127-15a8-4eda-a289-6fbad6435130.png)
+  ![image](https://user-images.githubusercontent.com/86675294/206165670-ca33eb47-c1a8-45fd-973b-fdb4fd12266e.png)
   
   In post man add request
   
