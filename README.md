@@ -9,6 +9,7 @@
   <h4>npm i nodemon</h4> <h6> -- press enter</h6>
   <h4>npm i mongoose</h4> <h6> -- press enter</h6>
   <h4> npm start</h4> <h6> -- press enter</h6>
+  
   ![image](https://user-images.githubusercontent.com/86675294/206165670-ca33eb47-c1a8-45fd-973b-fdb4fd12266e.png)
   
   In post man add request
@@ -44,24 +45,23 @@ output: ![image](https://user-images.githubusercontent.com/86675294/206161901-e4
 For ascending order (By created date) click send <br>
 output: ![image](https://user-images.githubusercontent.com/86675294/206164000-c766b586-2e65-4628-adce-283b3c6d3004.png)
 
-8. localhost:5000/api/products/allProducts?sortit=-1  
-<br>
+8. localhost:5000/api/products/allProducts?sortit=-1  <br>
 For descending order (By created date) click send<br>
 output:
 ![image](https://user-images.githubusercontent.com/86675294/206162248-00693b36-ba26-4548-974a-4b83308b0bfc.png)
 
-9. localhost:5000/api/products/allProducts/filter?RAM=9
+9. localhost:5000/api/products/allProducts/filter?RAM=9<br>
 filtering by RAM <br>
 output:  ![image](https://user-images.githubusercontent.com/86675294/206164345-de394753-a234-4ee4-b835-f32c93fbaef4.png)
 
 
-localhost:5000/api/products/allProducts/filter?object_name=vivom
+localhost:5000/api/products/allProducts/filter?object_name=vivom <br>
 filtering by object_name <br>
 output:  ![image](https://user-images.githubusercontent.com/86675294/206164743-5854ceaf-b4ed-4932-849c-cbe9dbbf406e.png)
 
 
 
-localhost:5000/api/products/allProducts/filter?object_name=vivom
+localhost:5000/api/products/allProducts/filter?object_name=vivom <br>
 filtering by Screen_size <br>
 output:  ![image](https://user-images.githubusercontent.com/86675294/206165088-d329e506-1b89-4b36-8153-7384eac9985e.png)
 
